@@ -1,0 +1,180 @@
+{
+    "Sujet": 'TEST',
+    "Resultats": [
+        {
+            "n": 1,
+            "Mot": "BERGE",
+            "Correct": 1,
+            "T": 0.0375,
+            "delta": 0.00075
+        },
+        {
+            "n": 2,
+            "Mot": "BETON",
+            "Correct": 1,
+            "T": 0.0367,
+            "delta": 0.00075
+        },
+        {
+            "n": 3,
+            "Mot": "CALME",
+            "Correct": 1,
+            "T": 0.036,
+            "delta": 0.00075
+        },
+        {
+            "n": 4,
+            "Mot": "CACAO",
+            "Correct": 1,
+            "T": 0.0352,
+            "delta": 0.00075
+        },
+        {
+            "n": 5,
+            "Mot": "ACHAT",
+            "Correct": 1,
+            "T": 0.0345,
+            "delta": 0.00075
+        },
+        {
+            "n": 6,
+            "Mot": "ACIER",
+            "Correct": 1,
+            "T": 0.0338,
+            "delta": 0.00075
+        },
+        {
+            "n": 7,
+            "Mot": "MICRO",
+            "Correct": 1,
+            "T": 0.033,
+            "delta": 0.00075
+        },
+        {
+            "n": 8,
+            "Mot": "PROSE",
+            "Correct": 1,
+            "T": 0.0323,
+            "delta": 0.00075
+        },
+        {
+            "n": 9,
+            "Mot": "CREER",
+            "Correct": 1,
+            "T": 0.0316,
+            "delta": 0.00075
+        },
+        {
+            "n": 10,
+            "Mot": "COINS",
+            "Correct": 1,
+            "T": 0.0309,
+            "delta": 0.00075
+        },
+        {
+            "n": 11,
+            "Mot": "POMME",
+            "Correct": 1,
+            "T": 0.0301,
+            "delta": 0.00075
+        },
+        {
+            "n": 12,
+            "Mot": "RIVES",
+            "Correct": 0,
+            "T": 0.0293,
+            "delta": 0.00075
+        },
+        {
+            "n": 13,
+            "Mot": "SABLE",
+            "Correct": 1,
+            "T": 0.0301,
+            "delta": 0.00075
+        },
+        {
+            "n": 14,
+            "Mot": "FOYER",
+            "Correct": 1,
+            "T": 0.0293,
+            "delta": 0.00075
+        },
+        {
+            "n": 15,
+            "Mot": "OFFRE",
+            "Correct": 1,
+            "T": 0.0285,
+            "delta": 0.00075
+        },
+        {
+            "n": 16,
+            "Mot": "BARBU",
+            "Correct": 0,
+            "T": 0.0278,
+            "delta": 0.00075
+        },
+        {
+            "n": 17,
+            "Mot": "CIBLE",
+            "Correct": 1,
+            "T": 0.0285,
+            "delta": 0.00075
+        },
+        {
+            "n": 18,
+            "Mot": "COURT",
+            "Correct": 1,
+            "T": 0.0278,
+            "delta": 0.00075
+        },
+        {
+            "n": 19,
+            "Mot": "CRAIE",
+            "Correct": 0,
+            "T": 0.027,
+            "delta": 0.00075
+        },
+        {
+            "n": 20,
+            "Mot": "CURRY",
+            "Correct": 0,
+            "T": 0.0278,
+            "delta": 0.00075
+        },
+        {
+            "n": 21,
+            "Mot": "DENTS",
+            "Correct": 0,
+            "T": 0.0285,
+            "delta": 0.00075
+        },
+        {
+            "n": 22,
+            "Mot": "ENGIN",
+            "Correct": 0,
+            "T": 0.0293,
+            "delta": 0.00075
+        },
+        {
+            "n": 23,
+            "Mot": "ESSAI",
+            "Correct": 1,
+            "T": 0.0301,
+            "delta": 0.00075
+        },
+        {
+            "n": 24,
+            "Mot": "EVITE",
+            "Correct": 1,
+            "T": 0.0293,
+            "delta": 0.00075
+        },
+        {
+            "n": 25,
+            "Mot": "FABLE",
+            "Correct": 0,
+            "T": 0.0285,
+            "delta": 0.00075
+        }
+    ]
+}
